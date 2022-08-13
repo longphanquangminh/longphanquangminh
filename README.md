@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
-- 📫 How to reach me: 🔭 Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>
+- 📫 How to reach me: Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>
 - ⚡ Fun fact: I love to watch Japanese anime.
 
 
