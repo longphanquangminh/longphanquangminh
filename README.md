@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **longphanquangminh/longphanquangminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there, my name is Long Phan.
+<br>
+
+### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭
+
+- 🌱 I’m currently learning ReactJS 😄
+- 💬 Ask me about everything 🤔
+- 📫 How to reach me: 🔭 Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>
+- ⚡ Fun fact: I love to watch Japanese anime.
+
+
