@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 ### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭
 
+<br>
+
+# 💫 About Me:
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 How to reach me: 🔭 Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>
 - ⚡ Fun fact: I love to watch Japanese anime.
-
-<br><br>
-# 💫 About Me:
-🌱 I’m currently learning ReactJS 😄<br>💬 Ask me about everything 🤔<br>📫 How to reach me: 🔭 Contact me via email here<br>⚡ Fun fact: I love to watch Japanese anime.
 
 
 ## 🌐 Socials:
