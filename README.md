@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, my name is Long Phan.
 
-### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭
+### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭 I'm redoing old projects from my old account.
 
 ### Connect with me:
 
