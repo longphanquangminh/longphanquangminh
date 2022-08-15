@@ -86,5 +86,11 @@ Here are some ideas to get you started:
 ### 😂 VN OOP Meme
 <img src="https://raw.githubusercontent.com/longphanquangminh/demo-achievement-justDraft/master/287988111_355278046723309_7149123002016877620_n.jpg" width="512px"/>
 
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+  
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=longphanquangminh&icon=0&color=0)](https://visitcount.itsvg.in)
