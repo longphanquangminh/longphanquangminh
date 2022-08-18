@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:longpqm19406c@st.uel.edu.vn">longpqm19406c@st.uel.edu.vn</a>.
-- 📄 See my CV: <a target="blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.
 - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px">
 
 
