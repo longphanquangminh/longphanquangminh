@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, my name is Long Phan.
+## 👋 Hi there, my name is Phan Quang Minh Long (Long Phan).
 
 ### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭 I'm redoing old projects from my old account.
 
