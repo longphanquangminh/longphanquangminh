@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### My City In 2022: [HERE](https://honzaap.github.io/GithubCity/?name=longphanquangminh&year=2022)
 
-<br />
+
 
 ### Languages and Tools:
 
