@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com" width="512px"/>
 
 ### 😂 VN Memes
 <img src="https://raw.githubusercontent.com/longphanquangminh/demo-achievement-justDraft/master/287988111_355278046723309_7149123002016877620_n.jpg" width="512px"/>
