@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br/>
 
 # 💫 About Me:
 - 🌱 I’m currently learning ReactJS 😄
