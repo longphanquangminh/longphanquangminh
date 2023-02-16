@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/344/angularjs.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
-<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/dusk/344/php-logo.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/glyph-neue/344/github.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/344/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
