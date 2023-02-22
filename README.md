@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/344/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
 <img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png" />
+<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
 <img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="ruby" width="26px" src="https://img.icons8.com/color/344/ruby-programming-language.png" />
 <img align="left" alt="rails" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" />
