@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ### My Resume Website: [HERE](https://longphanquangminh.github.io/Long-Phan-Resume)
 
+### My UEL AR Camera app (CH Play): [HERE](https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi)
+
 ### My Manga App Made With GLIDEAPP: [HERE](https://mangapqml.glideapp.io)
 
 ### My Github City In 2023: [HERE](https://honzaap.github.io/GithubCity/?name=longphanquangminh&year=2023)
