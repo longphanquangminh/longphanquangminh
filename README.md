@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, my name is Phan Quang Minh Long (phanquangminhlong).
 
-### This is my new Github account, the old one (username: minhlong26052001) has been locked 😭 I'm redoing old projects from my old account.
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -27,7 +25,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
 <br />
 
@@ -72,7 +69,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/phanquangminhlong
 [twitter]: https://twitter.com/pqmlong
 [github]: https://github.com/longphanquangminh
-[gitlab]: https://gitlab.com/longpqm19406c
 
 <br/>
 <br/>
