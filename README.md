@@ -109,10 +109,17 @@ Here are some ideas to get you started:
 ### Show some ❤️ by starring some of my repositories!
   
 </div>
+
 <div>
+
 ![Snake animation](https://github.com/longphanquangminh/longphanquangminh/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
 ---
+
 <div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=longphanquangminh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
