@@ -108,7 +108,11 @@ Here are some ideas to get you started:
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <!-- ### 😂 Random Dev Meme
 <div align="center">
