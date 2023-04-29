@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### My Portfolio: [HERE](https://github.com/longphanquangminh?tab=repositories)
+### My Portfolio: [HERE](https://bit.ly/portfolio-pqmlong)
 
 ### My Resume Website: [HERE](https://longphanquangminh.github.io/Long-Phan-Resume)
 
