@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/344/angularjs.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
+<img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/glyph-neue/344/github.png" />
 <img align="left" alt="grunt" width="26px" src="https://gruntjs.com/img/og.png" />
-<!-- <img align="left" alt="gulp" height="26px" src="https://media.discordapp.net/attachments/1026660684739653674/1108617600847585350/gulp-js-icon.png" /> -->
+<img align="left" alt="gulp" width="26px" src="https://media.discordapp.net/attachments/1026660684739653674/1108645323263451176/gulp26official.png" />
 <img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png" />
 <img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
