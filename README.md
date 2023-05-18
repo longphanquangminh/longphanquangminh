@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/glyph-neue/344/github.png" />
 <img align="left" alt="grunt" width="26px" src="https://gruntjs.com/img/og.png" />
-<img align="left" alt="gulp" width="26px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" />
-<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png" />
-<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
-<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
+<img align="left" alt="gulp" width="26px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp.png" />
+<img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png" />
+<img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
+<img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="rails" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" />
-<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
+<img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
+<img align="left" alt="photoshop" width="26px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
 <img align="left" alt="illustrator" width="26px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" />
 
 [facebook]: https://www.facebook.com/pqmlong265
