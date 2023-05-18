@@ -54,9 +54,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/glyph-neue/344/github.png" />
-<img align="left" alt="git" width="26px" src="https://img.icons8.com/color/344/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
 <img align="left" alt="grunt" width="26px" src="https://gruntjs.com/img/og.png" />
+<img align="left" alt="gulp" width="26px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" />
 <img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/microsoft-sql-server.png" />
 <img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
 <img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
@@ -76,7 +75,7 @@ Here are some ideas to get you started:
 <br/>
 
 # 💫 About Me:
-- 🌱 I’m currently learning ReactJS 😄
+- 🌱 I’m currently learning VueJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
 - 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
