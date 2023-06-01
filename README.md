@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, my name is Phan Quang Minh Long (phanquangminhlong).
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Minh+Long.;I'm+a+Front-end+Developer.;I'm+a+React+Developer.)](https://git.io/typing-svg)
+
+</div>
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
