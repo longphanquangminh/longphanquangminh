@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <img align="left" alt="rails" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" />
 <img align="left" alt="intellij" width="26px" src="https://img.icons8.com/color/344/intellij-idea.png" />
 <img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
-<img align="left" alt="canva" width="26px" src="https://img.icons8.com/color/344/canva.png" />
+<img align="left" alt="canva" width="26px" src="https://img.icons8.com/color/344/tailwindcss.png" />
 <img align="left" alt="photoshop" width="26px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
 
 [facebook]: https://www.facebook.com/pqmlong265
