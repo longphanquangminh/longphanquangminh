@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Minh+Long.;I'm+a+Front-end+Developer.;I'm+a+React+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Minh+Long.;I%27m+a+Software+Engineer.;I%27m+a+Full-stack+Developer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
 - 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">0852197589</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1hCUDe4FUtB27hjvfURI6lR8QOwwoRmg-/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
 - ⚡ Fun fact: I love to watch 🇯🇵 anime.
 
 
