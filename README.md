@@ -84,11 +84,12 @@ Here are some ideas to get you started:
 <br/>
 
 # 💫 About Me:
-- 👊 I am presently ranked in the top **#179** among GitHub Users By Followers in **Vietnam** 🇻🇳 (11/2023). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
+- 👊 I am presently ranked in the top **#159** among GitHub Users By Followers in **Vietnam** 🇻🇳 (12/2023). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
 - 🌱 I’m currently learning VueJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
+- 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">0852197589</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1hCUDe4FUtB27hjvfURI6lR8QOwwoRmg-/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
 - ⚡ Fun fact: I love to watch 🇯🇵 anime.
 
 
