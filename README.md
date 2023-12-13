@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Minh+Long.;I%27m+a+Software+Engineer.;I%27m+a+Full-stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Phan+Quang+Minh+Long.;I%27m+a+Software+Engineer.;I%27m+a+Full-stack+Developer.)](https://git.io/typing-svg)
 
 </div>
 
