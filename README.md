@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="399px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-### My Portfolio: [HERE](https://bit.ly/portfolio-pqmlong)
-
-### My Resume Website: [HERE](https://longphanquangminh.github.io/Long-Phan-Resume)
+### My Resume/CV/Portfolio Website: [HERE](https://longphanportfolio.vercel.app)
 
 ### My UEL AR Camera app (CH Play): [HERE](https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi)
 
@@ -89,7 +87,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
 - 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">0852197589</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1RHUoNBxvkKRjzz4zYIvoZWocGgHFRzN0/view
+">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
 - ⚡ Fun fact: I love to watch 🇯🇵 anime.
 
 
