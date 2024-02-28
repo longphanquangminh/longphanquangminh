@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, my name is Phan Quang Minh Long (phanquangminhlong).
+## 👋 Hi there, my name is Long Phan.
 
 <div align="center">
  
