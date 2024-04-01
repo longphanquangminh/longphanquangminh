@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### My Resume/CV/Portfolio Website: [HERE](https://longphanportfolio.up.railway.app)
 
-### My UEL AR Camera app (CH Play): [HERE](https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi)
+### My UEL AR Camera app (CH Play): [HERE](https://apkcombo.com/uel-ar-camera/com.DefaultCompany.MyProjectCameraDemohihi)
 
 ### My Manga App Made With GLIDEAPP: [HERE](https://mangapqml.glideapp.io)
 
