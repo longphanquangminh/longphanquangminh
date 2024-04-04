@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### My Resume/CV/Portfolio Website: [HERE](https://longphanportfolio.up.railway.app)
+### My Resume/CV/Portfolio Website: [HERE](https://longphanportfolio.vercel.app)
 
 ### My UEL AR Camera app (CH Play): [HERE](https://apkcombo.com/uel-ar-camera/com.DefaultCompany.MyProjectCameraDemohihi)
 
