@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <br/>
 
 # 💫 About Me:
-- 👊 I am presently ranked in the top **#97** among GitHub Users By Followers in **Vietnam** 🇻🇳 (6/2024). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
+- 👊 I am presently ranked in the top **#91** among GitHub Users By Followers in **Vietnam** 🇻🇳 (7/2024). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
 - 🌱 I’m currently learning NuxtJS and NestJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
