@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
 - 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">0852197589</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1RHUoNBxvkKRjzz4zYIvoZWocGgHFRzN0/view
+- 📄 See my CV: <a target="_blank" href="https://new-contest-portfolio.vercel.app/CV_PhanQuangMinhLong_SWE.pdf
 ">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
 - ⚡ Fun fact: I love to watch 🇯🇵 anime.
 
