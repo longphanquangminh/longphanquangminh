@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NuxtJS and NestJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
-- 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">0852197589</a>.
+- 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0852197589">here</a>.
 - 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1jIm37xJw6T_As064P4bGlcGrMXRzO9XI/view?usp=sharing
 ">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
 - ⚡ Fun fact: I love to watch 🇯🇵 anime.
