@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
@@ -70,9 +69,8 @@ Here are some ideas to get you started:
 <img align="left" alt="photoshop" width="26px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
 
 [facebook]: https://www.facebook.com/pqmlong265
-[instagram]: https://www.instagram.com/minhlong909
 [linkedin]: https://www.linkedin.com/in/phanquangminhlong
-[twitter]: https://twitter.com/pqmlong
+[twitter]: https://twitter.com/longlong1212121
 [github]: https://github.com/longphanquangminh
 
 <br/>
